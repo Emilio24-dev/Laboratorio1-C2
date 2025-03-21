@@ -39,5 +39,8 @@
             </table>";
     ?>
     <a href="registro.php"><button type="button">Agregar nuevo estudiante</button></a>
+    <footer>
+            <p>&copy; Centro Educativo | Todos los derechos reservados</p>
+        </footer>
 </body>
 </html>
