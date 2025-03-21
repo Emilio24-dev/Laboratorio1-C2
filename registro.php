@@ -32,5 +32,8 @@
         header(header: "Location:index.php");
      }
     ?>
+    <footer>
+        <p>&copy; Centro Educativo | Todos los derechos reservados</p>
+    </footer>
 </body>
 </html> 
